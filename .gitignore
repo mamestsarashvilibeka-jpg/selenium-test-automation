@@ -1,0 +1,29 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+
+# Logs & Reports
+logs/
+reports/
+allure-results/
+allure-report/
+
+# Screenshots (keep directory, ignore content)
+screenshots/*.png
+screenshots/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets — NEVER commit credentials
+*.env
+secrets.properties

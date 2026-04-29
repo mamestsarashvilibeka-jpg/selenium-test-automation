@@ -75,8 +75,8 @@ selenium-automation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/selenium-automation.git
-cd selenium-automation
+git clone https://github.com/mamestsarashvilibeka-jpg/selenium-test-automation.git
+cd selenium-test-automation
 ```
 
 ### 2. Run all tests

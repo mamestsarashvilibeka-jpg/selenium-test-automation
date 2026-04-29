@@ -205,7 +205,7 @@ Artifacts uploaded per run:
 ## 📬 Contact
 
 Built by a QA Automation Engineer.  
-Available for freelance on [Upwork](https://www.upwork.com/).
+Available for freelance on [Upwork](https://www.upwork.com/freelancers/~01bb63b811505a439a).
 
 ---
 

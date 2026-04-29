@@ -2,7 +2,7 @@
 
 A production-ready Java Selenium test automation framework built with industry best practices — Page Object Model, parallel execution, CI/CD integration, and rich reporting.
 
-[![CI](https://github.com/yourusername/selenium-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/selenium-automation/actions)
+[![CI](https://github.com/mamestsarashvilibeka-jpg/selenium-test-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/mamestsarashvilibeka-jpg/selenium-test-automation/actions)
 [![Java](https://img.shields.io/badge/Java-11-orange.svg)](https://adoptium.net/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.18-green.svg)](https://selenium.dev/)
 [![TestNG](https://img.shields.io/badge/TestNG-7.9-blue.svg)](https://testng.org/)
